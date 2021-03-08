@@ -13,7 +13,7 @@ public:
         std::map<int, bool> map1;
         for (int i = 0; i < vector1.size; i++) {
             for (int i = 0; i < s; i++) {
-
+                
             }
         }
 
